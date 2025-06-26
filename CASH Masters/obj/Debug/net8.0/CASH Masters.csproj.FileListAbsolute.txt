@@ -1,0 +1,31 @@
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\CASH Masters.exe
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\appsettings.Development.json
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\appsettings.json
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\CASH Masters.deps.json
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\CASH Masters.runtimeconfig.json
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\CASH Masters.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\CASH Masters.pdb
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\System.Text.Json.dll
+C:\proyect\CASH Masters\CASH Masters\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\CASH Masters.csproj.AssemblyReference.cache
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\CASH Masters.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\CASH Masters.AssemblyInfoInputs.cache
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\CASH Masters.AssemblyInfo.cs
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\CASH Masters.csproj.CoreCompileInputs.cache
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\CASH Mas.66276EF5.Up2Date
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\CASH Masters.dll
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\refint\CASH Masters.dll
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\CASH Masters.pdb
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\CASH Masters.genruntimeconfig.cache
+C:\proyect\CASH Masters\CASH Masters\obj\Debug\net8.0\ref\CASH Masters.dll
