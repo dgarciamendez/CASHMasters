@@ -15,15 +15,16 @@ This project implements a Point-of-Sale (POS) system component for CASH Masters,
 
 Please be aware that the `main` branch of this repository might be empty. The complete and functional project code, including all features and tests, is located on the `master` branch.
 
-You can view it directly here: [https://github.com/dgarciamendez/CASHMasters/tree/master](https://github.com/dgarciamendez/CASHMasters/tree/master)
+You can view it directly here: https://github.com/dgarciamendez/CASHMasters/tree/master
 
 If you clone the repository, please make sure to switch to the `master` branch:
 
-```bash
-git clone [https://github.com/dgarciamendez/CASHMasters.git](https://github.com/dgarciamendez/CASHMasters.git)
+
+git clone https://github.com/dgarciamendez/CASHMasters.git
 cd CASHMasters # Navigate into the cloned repository
 git checkout master
-Prerequisites
+
+Prerequisites:
 Before you begin, ensure you have the following installed on your system:
 
 .NET SDK 6.0 or higher: Download .NET SDK
@@ -33,13 +34,11 @@ Getting Started
 Follow these steps to get a copy of the project up and running on your local machine.
 
 1. Clone the Repository
-First, clone the project repository to your local machine:
+First, clone the project repository to your local machine:Please be aware that the `main` branch of this repository might be empty. The complete and functional project code, including all features and tests, is located on the `master` branch.
 
-Bash
-
-git clone https://github.com/dgarciamendez/CASHMasters/tree/master
+git clone https://github.com/dgarciamendez/CASHMasters.git
 cd "CASH Masters" # Navigate into the solution folder
-
+git checkout master
 
 2. Restore Dependencies
 Navigate to the root of the solution (where the .sln file is located) and restore the NuGet packages:
@@ -113,7 +112,8 @@ reportgenerator -reports:coverage.xml -targetdir:coverage_report -reporttypes:Ht
 
 
 After these commands complete, open the index.html file located in the coverage_report directory in your web browser to view the detailed coverage report.
-![image](https://github.com/user-attachments/assets/9d34af63-ee78-410e-993b-aeaec59e08af)
+
+https://github.com/user-attachments/assets/9d34af63-ee78-410e-993b-aeaec59e08af
 
 
 
